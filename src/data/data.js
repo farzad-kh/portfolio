@@ -2,7 +2,7 @@
 import GithubFounder from "../assets/projects/github-founder.png"
 import Crypto from "../assets/projects/crypto.png"
 import JsMovie from "../assets/projects/js-movie.png"
-import Meta3 from "../assets/projects/Meta3.png"
+// import Meta3 from "../assets/projects/Meta3.png"
 import Shopping from "../assets/projects/shopping.png"
 import ReactMovie from "../assets/projects/react-movie.png"
 
@@ -34,7 +34,7 @@ export const data = [
     {
         id: 4,
         name: "Meta 3",
-        image:Meta3,
+        image:"",
         github: "https://github.com/farzad-kh/meta3",
         live: "https://meta3-three.vercel.app/",
         library: ["Next Js","Framer Motion","Tailwind Css"]
