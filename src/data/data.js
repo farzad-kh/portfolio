@@ -46,7 +46,7 @@ export const data = [
         image:ReactMovie,
         github: "https://github.com/farzad-kh/30-nema-30-react",
         live: "https://movie30nama.netlify.app/",
-        library: ["React Js","RTK Query","RTK","Tailwind Css","daisyui","Framer Motion","UI"]
+        library: ["React Js","RTK Query","RTK","Tailwind Css","daisyui","Framer Motion","UI/UX"]
     },
     {
         id: 6,

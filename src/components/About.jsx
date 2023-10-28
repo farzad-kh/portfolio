@@ -14,19 +14,19 @@ const About = () => {
           <div></div>
           </div>
           <div div className='max-w-[1200px] w-full grid sm:grid-cols-2 gap-8 px-4'>
-            <div  className='sm:text-right text-4xl font-bold'>
+            <div  className='sm:text-right text-3xl font-bold'>
              
-             <AboutMe type={"bottom"} text={"Hi. I'm Sai Kumar, nice to meet you. Please take a look around."}/>
+             <AboutMe type={"bottom"} text={ "I'm a Junior Front End Developer . thank you for visiting my portfolio . please take look to my projects"}
+             
+              
+              />
             
          
             </div>
-            <div>
-              <AboutMe type={"top"} text={"I am passionate about building excellent software that improves  the lives of those around me. I specialize in creating software  for clients ranging from individuals and small-businesses all the   way to large enterprise corporations. What would you do if you had  a software expert available at your fingertips?"} />
+            <div className=' text-2xl font-bold text-gray-400 '>
+              <AboutMe type={"top"} text={"I am passionate to learning programing languages especially in front end area. in this moment i'm try learning next js and typescript"} />
             
-             
-             
-            
-          
+
             </div>
           </div>
       </div>
