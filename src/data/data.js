@@ -5,6 +5,8 @@ import JsMovie from "../assets/projects/js-movie.png"
  import m from "../assets/projects/metavers.png"
 import Shopping from "../assets/projects/shopping.png"
 import ReactMovie from "../assets/projects/react-movie.png"
+import GameZone from "../assets/projects/game-zone.png"
+import Lyrics from "../assets/projects/lyrics.png"
 
 export const data = [
     {
@@ -55,6 +57,22 @@ export const data = [
         github: "https://github.com/farzad-kh/shopping-cart",
         live: "https://bespoke-daffodil-7091ae.netlify.app/",
         library: ["React Js"]
+    },
+    {
+        id: 7,
+        name: "Lyrics",
+        image:Lyrics,
+        github: "https://github.com/farzad-kh/lyrics-song",
+        live: "https://farzad-kh.github.io/lyrics-song/",
+        library: ["Vanilla Js"]
+    },
+    {
+        id: 8,
+        name: "Game zone",
+        image:GameZone,
+        github: "https://github.com/farzad-kh/Game-zone-ts",
+        live: "https://gamezone-ts.netlify.app/",
+        library: ["React Js","Typescript","Zustand","Chakra ui"]
     },
 
 ]
