@@ -49,6 +49,7 @@
     width: fit-content;
 
 }
+
 .nav a::before {
 content: "";
 width: 0;

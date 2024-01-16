@@ -1,12 +1,12 @@
 
-import GithubFounder from "../assets/projects/github-founder.png"
-import Crypto from "../assets/projects/crypto.png"
-import JsMovie from "../assets/projects/js-movie.png"
- import m from "../assets/projects/metavers.png"
-import Shopping from "../assets/projects/shopping.png"
-import ReactMovie from "../assets/projects/react-movie.png"
-import GameZone from "../assets/projects/game-zone.png"
-import Lyrics from "../assets/projects/lyrics.png"
+import GithubFounder from "../assets/projects/github-founder.jpg"
+import Crypto from "../assets/projects/crypto.jpg"
+import JsMovie from "../assets/projects/js-movie.jpg"
+ import m from "../assets/projects/metavers.jpg"
+import Shopping from "../assets/projects/shopping.jpg"
+import ReactMovie from "../assets/projects/react-movie.jpg"
+import GameZone from "../assets/projects/game-zone.jpg"
+import Lyrics from "../assets/projects/lyrics-52de331f.jpg"
 
 export const data = [
     {

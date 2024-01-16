@@ -24,7 +24,7 @@ const About = () => {
          
             </div>
             <div className=' text-2xl font-bold text-gray-400 '>
-              <AboutMe type={"top"} text={"I am passionate to learning programing languages especially in front end area. in this moment i'm try learning next js and typescript"} />
+              <AboutMe type={"top"} text={"I am passionate to learning programing languages especially in front end area"} />
             
 
             </div>
