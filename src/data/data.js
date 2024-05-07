@@ -32,7 +32,7 @@ export const data = [
         image: Jack,
         github: "https://github.com/farzad-kh/ecommerce-jk-next",
         live: "https://jackjeans.netlify.app/",
-        library: ["Next Js", "Typescript", "Zustand","PostgreSQL","Tailwind Css", "NextUi", "Prisma(ORM)", "NextAuth","Ui/Ux"]
+        library: ["Next Js", "Typescript", "Zustand", "PostgreSQL", "Tailwind Css", "NextUi", "Prisma(ORM)", "NextAuth", "Ui/Ux"]
     },
 
     {
@@ -68,15 +68,6 @@ export const data = [
         live: "https://farzad-kh.github.io/lyrics-song/",
         library: ["Vanilla Js"]
     },
-    {
-        id: 8,
-        name: "Game zone",
-        image: GameZone,
-        github: "https://github.com/farzad-kh/Game-zone-ts",
-        live: "https://gamezone-ts.netlify.app/",
-        library: ["React Js", "Typescript", "Zustand", "Chakra ui"]
-    },
-
     {
         id: 9,
         name: "Js Movie Clone",
