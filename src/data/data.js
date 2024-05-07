@@ -34,7 +34,6 @@ export const data = [
         live: "https://jackjeans.netlify.app/",
         library: ["Next Js", "Typescript", "Zustand", "PostgreSQL", "Tailwind Css", "NextUi", "Prisma(ORM)", "NextAuth", "Ui/Ux"]
     },
-
     {
         id: 4,
         name: "Meta 3",
