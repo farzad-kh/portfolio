@@ -51,14 +51,7 @@ export const data = [
         live: "https://movie30nama.netlify.app/",
         library: ["React Js", "RTK Query", "RTK", "Tailwind Css", "daisyui", "Framer Motion", "Ui/Ux"]
     },
-    {
-        id: 6,
-        name: "Shopping Cart",
-        image: Shopping,
-        github: "https://github.com/farzad-kh/shopping-cart",
-        live: "https://bespoke-daffodil-7091ae.netlify.app/",
-        library: ["React Js"]
-    },
+
     {
         id: 7,
         name: "Lyrics",
